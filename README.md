@@ -5,7 +5,7 @@
 
 
 
-* **`Android`**
+* **`Android v.1`**
     * **`常规知识`**
         * [5.0特性Verctor2SVG](http://suzeyu.com/2016/05/19/5.0%E7%89%B9%E6%80%A7Verctor2SVG/) 
         * [Android 中如何使用annotion替代Enum](http://suzeyu.com/2016/05/20/Android-%E4%B8%AD%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8annotion%E6%9B%BF%E4%BB%A3Enum/)
